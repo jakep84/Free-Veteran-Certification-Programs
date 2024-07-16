@@ -149,7 +149,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides veterans with free training and scholarships for coding, data science, and other tech-related fields, along with job placement assistance.
 - **Certifications Offered**: Various tech certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://generalassemb.ly/education/tuition-assistance)
+- **Application Link**: [Apply Here](https://generalassemb.ly/gi-bill)
 
 ### Tech Qualled
 
@@ -174,7 +174,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides free online courses and certifications in high-demand fields such as cloud computing and cybersecurity, with job placement support for veterans.
 - **Certifications Offered**: Various tech certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://nextstep.vet/)
+- **Application Link**: [Apply Here](https://www.hiringourheroes.org/career-services/education-networking/next-step-vets-tech/)
 
 ### Tech Vets
 
@@ -222,7 +222,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers free IT certification training for veterans through the CertMaster Learn platform.
 - **Certifications Offered**: CompTIA A+, Network+, Security+, and more.
 - **Benefits**: Free training and certification.
-- **Application Link**: [Apply Here](https://certification.comptia.org/training/exam-prep)
+- **Application Link**: [Apply Here](https://www.comptia.org/career-change/switching-career-path/from-jobs/military-to-it)
 
 ### Skillsoft Learning Paths
 
