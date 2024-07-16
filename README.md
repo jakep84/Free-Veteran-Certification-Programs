@@ -10,6 +10,7 @@ This is a curated list of free certification and job placement programs availabl
 - [Entrepreneurship](#entrepreneurship)
 - [Education and Teaching](#education-and-teaching)
 - [General Employment](#general-employment)
+- [Aviation](#aviation)
 
 ## Technology and IT
 
@@ -1592,3 +1593,44 @@ This is a curated list of free certification and job placement programs availabl
 - **Certifications Offered**: N/A
 - **Benefits**: Free job placement support.
 - **Application Link**: [Apply Here](https://www.hireourheroes.org/)
+
+[Back to Top](#navigation)
+
+## Aviation
+
+
+### Aviation Maintenance Technician Program
+- **Organization**: Aviation Institute of Maintenance
+- **Duration**: 18-24 months
+- **Effort**: Full-time
+- **Frequency**: Continuous
+- **Prerequisites**: None
+- **Description**: Offers training and certification for veterans to become FAA-certified aviation maintenance technicians.
+- **Certifications Offered**: FAA Airframe and Powerplant (A&P) certification.
+- **Benefits**: Free training and job placement assistance.
+- **Application Link**: [Apply Here](https://aviationmaintenance.edu/admissions/student-services/military-information/)
+
+
+### Airline Career Pilot Program
+- **Organization**: ATP Flight School
+- **Duration**: 7 months
+- **Effort**: Full-time
+- **Frequency**: Continuous
+- **Prerequisites**: None
+- **Description**: Provides training for veterans to become airline pilots, offering a fast track from zero flight experience to airline pilot.
+- **Certifications Offered**: Private Pilot License (PPL), Commercial Pilot License (CPL), Multi-Engine Rating, Instrument Rating, and Airline Transport Pilot (ATP) certification.
+- **Benefits**: Free training and job placement assistance.
+- **Application Link**: [Apply Here](https://atpflightschool.com/airline-career-pilot-program/)
+
+### Aviation Safety Management Systems (SMS)
+- **Organization**: University of Southern California (USC) Aviation Safety & Security Program
+- **Duration**: Varies
+- **Effort**: Part-time
+- **Frequency**: Continuous
+- **Prerequisites**: None
+- **Description**: Provides training in aviation safety management systems for veterans, focusing on safety protocols and procedures in aviation operations.
+- **Certifications Offered**: Aviation Safety Management Systems certification.
+- **Benefits**: Free training and job placement assistance.
+- **Application Link**: [Apply Here](https://aviationsafety.usc.edu/certificate-programs/)
+
+[Back to Top](#navigation)
