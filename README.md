@@ -126,7 +126,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers free training and certification in IBM technologies, with job placement support for veterans.
 - **Certifications Offered**: IBM certifications in various fields.
 - **Benefits**: Free training and certification.
-- **Application Link**: [Apply Here](https://www.ibm.com/impact/be-equal/veterans)
+- **Application Link**: [Apply Here](https://careers.ibm.com/campaign/veterans-at-ibm/)
 
 ### Code Platoon
 
@@ -235,7 +235,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides free access to Skillsoft's comprehensive learning paths for veterans, covering various tech and business skills.
 - **Certifications Offered**: Various Skillsoft certifications.
 - **Benefits**: Free training and certification.
-- **Application Link**: [Apply Here](https://www.skillsoft.com/solutions/government/military-veterans)
+- **Application Link**: [Apply Here](https://www.skillsoft.com/aspire-journeys)
 
 ### Military and Veterans Programs
 
@@ -307,7 +307,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers free cybersecurity training and certification for veterans, with job placement support.
 - **Certifications Offered**: Various cybersecurity certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.cybervetsusa.org/)
+- **Application Link**: [Apply Here](https://amacfoundation.org/veterans_resources/cybervetsusa/)
 
 ### Heroes MAKE America
 
@@ -319,7 +319,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides training and certification for veterans in manufacturing skills, with job placement support.
 - **Certifications Offered**: Various manufacturing certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.themanufacturinginstitute.org/initiatives/heroes-make-america/)
+- **Application Link**: [Apply Here](https://themanufacturinginstitute.org/events/military-to-manufacturing-fort-riley-career-fair/)
 
 ### Palo Alto Networks Cybersecurity Academy
 
@@ -331,7 +331,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers free cybersecurity training and certification for veterans, with job placement support.
 - **Certifications Offered**: Palo Alto Networks certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.paloaltonetworks.com/services/education/veterans)
+- **Application Link**: [Apply Here](https://www.paloaltonetworks.com/services/education/academy)
 
 [Back to Top](#navigation)
 
@@ -349,18 +349,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Benefits**: Free training, certification, and job placement assistance.
 - **Application Link**: [Apply Here](https://www.hiringourheroes.org/fellowships/)
 - **Contact Information**: fellowship@uschamber.com
-
-### Veteran's Career Transition Program (VCTP)
-
-- **Organization**: IVMF
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Varies
-- **Prerequisites**: None
-- **Description**: Offers no-cost training and professional certifications to post-9/11 veterans and spouses.
-- **Certifications Offered**: Various business and IT certifications.
-- **Benefits**: Free training and certification.
-- **Application Link**: [Apply Here](https://ivmf.syracuse.edu/programs/career-training/vctp/)
 
 ### Project Management Institute (PMI)
 
@@ -601,7 +589,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides networking opportunities and career support for elite veterans, helping them transition to civilian careers.
 - **Certifications Offered**: N/A
 - **Benefits**: Free networking and career support.
-- **Application Link**: [Apply Here](https://elitemeet.us/)
+- **Application Link**: [Apply Here](https://elitemeetus.org/veteran-application/)
 
 [Back to Top](#navigation)
 
@@ -619,18 +607,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Benefits**: Free training and support.
 - **Application Link**: [Apply Here](https://www.vetfran.org/)
 
-### Veterans to Energy Careers
-
-- **Organization**: U.S. Department of Energy
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Varies
-- **Prerequisites**: None
-- **Description**: Provides training and job placement in the energy sector for veterans.
-- **Certifications Offered**: Various energy-related certifications.
-- **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://veterans.energy.gov/)
-
 ### Warrior Training Advancement Course (WARTAC)
 
 - **Organization**: VA
@@ -641,7 +617,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers a training program that leads to federal employment with the Department of Veterans Affairs.
 - **Certifications Offered**: N/A
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.benefits.va.gov/transition/warrior_training.asp)
+- **Application Link**: [Apply Here](https://www.va.gov/education/)
 
 ### Home Builders Institute (HBI)
 
@@ -691,18 +667,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Benefits**: Free training and job placement.
 - **Application Link**: [Apply Here](https://getskillstowork.org/)
 
-### Construction Education Foundation
-
-- **Organization**: Construction Education Foundation
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides training and certification for veterans in the construction industry.
-- **Certifications Offered**: Various construction-related certifications.
-- **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.constructioneducationfoundation.org/)
-
 ### Wounded Warrior Project Warriors to Work
 
 - **Organization**: Wounded Warrior Project
@@ -714,18 +678,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Certifications Offered**: N/A
 - **Benefits**: Free job placement support.
 - **Application Link**: [Apply Here](https://www.woundedwarriorproject.org/programs/warriors-to-work)
-
-### Operation Next
-
-- **Organization**: LIFT
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides training and certification for veterans in advanced manufacturing.
-- **Certifications Offered**: Various manufacturing certifications.
-- **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.operationnext.com/)
 
 ### SkillsBuild
 
@@ -785,7 +737,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides training and certification for veterans in ironworking and welding.
 - **Certifications Offered**: Ironworking and welding certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.irontroop.org/)
+- **Application Link**: [Apply Here](https://www.ironworkers.org/s/)
 
 ### Veterans Welding Program
 
@@ -797,7 +749,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides welding training and certification for veterans, with job placement support.
 - **Certifications Offered**: Welding certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.aws.org/foundation/page/veterans)
+- **Application Link**: [Apply Here](https://www.aws.org/career-resources/#veterans)
 
 ### Ford ASSET Program
 
@@ -821,19 +773,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides training and certification for veterans in heavy equipment maintenance and repair.
 - **Certifications Offered**: Heavy equipment technician certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.caterpillar.com/en/company/caterpillar-foundation/veterans.html)
-
-### ABYC Marine Service Technician Program
-
-- **Organization**: American Boat & Yacht Council
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides training and certification for veterans in marine service and repair.
-- **Certifications Offered**: Marine service technician certifications.
-- **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://abycinc.org/ABYC_Certification)
+- **Application Link**: [Apply Here](https://www.caterpillar.com/en/careers/career-areas/dealer-technician/technicians-for-the-world.html)
 
 ### Manufacturing Skill Standards Council (MSSC)
 
@@ -857,7 +797,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers welding and joining management training for veterans, with job placement support.
 - **Certifications Offered**: Welding and joining management certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://www.pennfoster.edu/programs/skilled-trades/welding-and-joining-management-associate-degree)
+- **Application Link**: [Apply Here](https://www.workforcedevelopment.com/mechanics/pipefitter-courses/pipefitting.html)
 
 [Back to Top](#navigation)
 
@@ -898,7 +838,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides entrepreneurship training for female veterans, helping them start and grow their own businesses.
 - **Certifications Offered**: N/A
 - **Benefits**: Free training and business support.
-- **Application Link**: [Apply Here](https://ivmf.syracuse.edu/programs/entrepreneurship/v-wise/)
+- **Application Link**: [Apply Here](https://ivmf.syracuse.edu/programs/entrepreneurship/start-up/v-wise/)
 
 ### StreetShares Foundation
 
@@ -1042,19 +982,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides entrepreneurship training for veterans, helping them start and grow their own businesses.
 - **Certifications Offered**: N/A
 - **Benefits**: Free training and business support.
-- **Application Link**: [Apply Here](https://ive.villanova.edu/vep.html)
-
-### RISE (Resources for Veterans Entrepreneurs)
-
-- **Organization**: RISE
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides training and resources for veteran entrepreneurs, helping them start and grow their own businesses.
-- **Certifications Offered**: N/A
-- **Benefits**: Free training and business support.
-- **Application Link**: [Apply Here](https://www.risevetprogram.org/)
+- **Application Link**: [Apply Here](https://www1.villanova.edu/villanova/enroll/veterans-military.html)
 
 ### FastTrac for Veterans
 
@@ -1066,7 +994,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers entrepreneurship training for veterans, helping them start and grow their own businesses.
 - **Certifications Offered**: N/A
 - **Benefits**: Free training and business support.
-- **Application Link**: [Apply Here](https://www.fasttrac.org/veterans)
+- **Application Link**: [Apply Here](https://www.fasttrac.org/)
 
 ### Small Business Development Center (SBDC)
 
@@ -1090,7 +1018,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides entrepreneurship training for veterans with disabilities, helping them start and grow their own businesses.
 - **Certifications Offered**: N/A
 - **Benefits**: Free training and business support.
-- **Application Link**: [Apply Here](https://ivmf.syracuse.edu/programs/entrepreneurship/ebv/)
+- **Application Link**: [Apply Here](https://ivmf.syracuse.edu/programs/entrepreneurship/start-up/ebv/)
 
 ### Veterans Institute for Procurement (VIP)
 
@@ -1181,18 +1109,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Benefits**: Training and support.
 - **Application Link**: [Apply Here](https://www.militarychild.org/)
 
-### Teaching as a Second Career
-
-- **Organization**: Teaching as a Second Career
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides support for veterans transitioning to teaching careers.
-- **Certifications Offered**: Teaching certifications.
-- **Benefits**: Training and job placement.
-- **Application Link**: [Apply Here](https://www.teachingasasecondcareer.org/)
-
 ### American Board for Certification of Teacher Excellence
 
 - **Organization**: American Board
@@ -1204,18 +1120,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Certifications Offered**: Teaching certifications.
 - **Benefits**: Certification and job placement.
 - **Application Link**: [Apply Here](https://www.americanboard.org/military/)
-
-### Heroes to Education
-
-- **Organization**: Heroes to Education
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides support for veterans transitioning to teaching careers.
-- **Certifications Offered**: Teaching certifications.
-- **Benefits**: Certification and job placement.
-- **Application Link**: [Apply Here](https://heroes2education.org/)
 
 ### Veteran Educator Support & Training (VEST)
 
@@ -1239,7 +1143,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides certification support for military spouses pursuing teaching careers.
 - **Certifications Offered**: Teaching certifications.
 - **Benefits**: Certification support and job placement.
-- **Application Link**: [Apply Here](https://www.teachercertificationdegrees.com/programs/military-spouse/)
+- **Application Link**: [Apply Here](https://www.teachercertificationdegrees.com/careers/#topcareers)
 
 ### Teach-Now
 
@@ -1287,7 +1191,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Offers educational programs for veterans, with certification and job placement support.
 - **Certifications Offered**: Various certifications and degrees.
 - **Benefits**: Certification and job placement.
-- **Application Link**: [Apply Here](https://rossier.usc.edu/programs/p12/mat/)
+- **Application Link**: [Apply Here](https://rossier.usc.edu/events/usc-rossier-reception-naspa-2024)
 
 ### Relay Graduate School of Education
 
@@ -1312,30 +1216,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Certifications Offered**: Various certifications and degrees.
 - **Benefits**: Certification and job placement.
 - **Application Link**: [Apply Here](https://www.vmfe.org/)
-
-### Veterans to Teaching (VTT)
-
-- **Organization**: VTT
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides support for veterans transitioning to teaching careers.
-- **Certifications Offered**: Teaching certifications.
-- **Benefits**: Certification and job placement.
-- **Application Link**: [Apply Here](https://www.veteranstoteaching.org/)
-
-### Alternative Pathways to Teaching
-
-- **Organization**: Alt Pathways
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Offers alternative pathways to teaching certification for veterans.
-- **Certifications Offered**: Teaching certifications.
-- **Benefits**: Certification and job placement.
-- **Application Link**: [Apply Here](https://www.altpathways.org/)
 
 [Back to Top](#navigation)
 
@@ -1388,7 +1268,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Description**: Provides free online courses and certifications in high-demand fields such as cloud computing and cybersecurity, with job placement support for veterans.
 - **Certifications Offered**: Various tech certifications.
 - **Benefits**: Free training and job placement.
-- **Application Link**: [Apply Here](https://nextstep.vet/)
+- **Application Link**: [Apply Here](https://tnsprograms.org/)
 
 ### Warriors to Work
 
@@ -1425,18 +1305,6 @@ This is a curated list of free certification and job placement programs availabl
 - **Certifications Offered**: N/A
 - **Benefits**: Free job placement support.
 - **Application Link**: [Apply Here](https://www.hireheroesusa.org/)
-
-### RecruitMilitary
-
-- **Organization**: RecruitMilitary
-- **Duration**: Varies
-- **Effort**: Varies
-- **Frequency**: Continuous
-- **Prerequisites**: None
-- **Description**: Provides job fairs, networking events, and job placement services for veterans.
-- **Certifications Offered**: N/A
-- **Benefits**: Free job placement support.
-- **Application Link**: [Apply Here](https://recruitmilitary.com/)
 
 ### Veteran Readiness and Employment (VR&E)
 
@@ -1598,8 +1466,8 @@ This is a curated list of free certification and job placement programs availabl
 
 ## Aviation
 
-
 ### Aviation Maintenance Technician Program
+
 - **Organization**: Aviation Institute of Maintenance
 - **Duration**: 18-24 months
 - **Effort**: Full-time
@@ -1610,8 +1478,8 @@ This is a curated list of free certification and job placement programs availabl
 - **Benefits**: Free training and job placement assistance.
 - **Application Link**: [Apply Here](https://aviationmaintenance.edu/admissions/student-services/military-information/)
 
-
 ### Airline Career Pilot Program
+
 - **Organization**: ATP Flight School
 - **Duration**: 7 months
 - **Effort**: Full-time
@@ -1623,6 +1491,7 @@ This is a curated list of free certification and job placement programs availabl
 - **Application Link**: [Apply Here](https://atpflightschool.com/airline-career-pilot-program/)
 
 ### Aviation Safety Management Systems (SMS)
+
 - **Organization**: University of Southern California (USC) Aviation Safety & Security Program
 - **Duration**: Varies
 - **Effort**: Part-time
